@@ -1,11 +1,11 @@
-import './App.css'
-import './styles/Global.css'
 import NavBar from './components/Nav.jsx'
 import Intro from './components/Intro.jsx'
 import About from './components/About.jsx'
 import Projects from './components/Projects.jsx'
 import Credits from './components/Credits.jsx'
 import 'rsuite/dist/rsuite.min.css';
+import './styles/Global.css'
+import './App.css'
 
 
 function App() {
