@@ -1,10 +1,10 @@
 import './App.css'
 import './styles/Global.css'
-import NavBar from './Components/Nav.jsx'
-import Intro from './Components/Intro.jsx'
-import About from './Components/About.jsx'
-import Projects from './Components/Projects.jsx'
-import Credits from './Components/Credits.jsx'
+import NavBar from './components/Nav.jsx'
+import Intro from './components/Intro.jsx'
+import About from './components/About.jsx'
+import Projects from './components/Projects.jsx'
+import Credits from './components/Credits.jsx'
 import 'rsuite/dist/rsuite.min.css';
 
 
