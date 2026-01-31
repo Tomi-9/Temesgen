@@ -1,0 +1,24 @@
+#intro {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  gap: 4vw;
+ box-sizing: border-box;
+}
+
+.intro-name {
+  color: var(--green-bright);
+  font-size: 40px;
+}
+
+.intro-greeting {
+  color: var(--white);
+}
+
+.tech {
+  font-size: 30px;
+ color: var(--teal);
+}

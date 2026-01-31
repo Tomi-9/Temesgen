@@ -1,0 +1,11 @@
+#projects {
+margin: auto;
+max-width: 1000px;
+min-height: 40vh;
+}
+
+.project {
+color: var(--white);
+font-size: 60px;
+text-align: center;
+}
