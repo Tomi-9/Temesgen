@@ -1,4 +1,4 @@
-import '../Styles/About.css'
+import '../styles/About.css'
 
 const techStack = [
     "JavaScript ES6+",

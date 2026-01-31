@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container';
 import EmailRoundedIcon from "@mui/icons-material/EmailRounded";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import '../Styles/Nav.css';
+import '../styles/Nav.css';
 
 //<Nav.Link href="#experience">Experience</Nav.Link>
 

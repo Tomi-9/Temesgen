@@ -1,4 +1,4 @@
-import '../Styles/Projects.css'
+import '../styles/Projects.css'
 import { Typewriter } from 'react-simple-typewriter';
 import FolderOpenIcon from '@mui/icons-material/FolderOpen';
 
