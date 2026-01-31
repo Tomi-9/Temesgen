@@ -1,6 +1,5 @@
-import { useState } from 'react'
 import './App.css'
-import './Styles/Global.css'
+import './styles/Global.css'
 import NavBar from './Components/Nav.jsx'
 import Intro from './Components/Intro.jsx'
 import About from './Components/About.jsx'
